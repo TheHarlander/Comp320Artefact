@@ -1,5 +1,8 @@
 # Comp320Artefact
 
+### Playing the game
+To play the game you will need to open up the project in Unreal editor. Once this has loaded up, click the drop down menu of "Play" and select VR Preview.
+
 
 ### Trello Board
 "FB" stands for First Block and should be completed in the first semester.
